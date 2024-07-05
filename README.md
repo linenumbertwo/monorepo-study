@@ -1,1 +1,3 @@
-# monorepo
+### monorepo
+
+used `yarn workspace`
